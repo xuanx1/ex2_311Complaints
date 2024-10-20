@@ -1,5 +1,3 @@
-import "./style.css";
-
 //tree map, Complaint type by types & boroughs
 //https://data.cityofnewyork.us/resource/erm2-nwe9.json
 
